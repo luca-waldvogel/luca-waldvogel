@@ -3,7 +3,7 @@
 🎓 I’m currently in school working towards my **EFZ in Application Development**  
 💻 At the same time, I’m doing an internship as a **Software Engineer**  
 🚀 Passionate about building projects with **Python**  
-📊 Interested in **databases, machine learning, and backend development**  
+📊 Interested in **backend development, machine learning, and databases**  
 
 ---
 
